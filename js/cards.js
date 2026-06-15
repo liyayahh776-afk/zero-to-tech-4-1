@@ -9,3 +9,4 @@ export function initCardsAnim() {
     ease: "outBack",
   });
 }
+print("hello")
